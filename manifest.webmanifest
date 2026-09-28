@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow IEP",
+ "short_name": "IEP",
+ "description": "an IEP tracker for parents: every goal with its progress data and a chart, meeting notes written while they happen, an accommodations checklist you can actually verify, the team and their emails, and a printable progress report for the next IEP meeting. Your child's data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
